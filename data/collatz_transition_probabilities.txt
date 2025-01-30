@@ -1,0 +1,3 @@
+Even -> Even: 0.7500
+Even -> Odd: 0.2500
+Odd -> Even: 1.0000

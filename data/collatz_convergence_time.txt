@@ -1,0 +1,1 @@
+Empirical Approximation: E[T(n)] ≈ 7.2776 log2(n) + -3.0750
